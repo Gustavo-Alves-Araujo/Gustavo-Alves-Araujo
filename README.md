@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Gustavo Alves! 
 
-<!--
-**Gustavo-Alves-Araujo/Gustavo-Alves-Araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Full Stack Software Developer
+- 💼 Founder of [Axolutions](https://app.axolutions.com.br)
+- 🎓 Student at UFABC.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🖥️ Languages and Tools:
+
+* Currently working with:
+
+[![My Skills](https://skillicons.dev/icons?i=ruby,vue,typescript&theme=dark&perline=6)](https://skillicons.dev)
+
+
+* I have experience and knowledge in:
+
+[![My Skills](https://skillicons.dev/icons?i=nuxt,react,next,tailwind,rails,docker,mongodb,postgres,styledcomponents&theme=dark)](https://skillicons.dev)
+
+
+
+
